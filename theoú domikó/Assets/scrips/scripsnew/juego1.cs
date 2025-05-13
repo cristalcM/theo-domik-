@@ -16,7 +16,7 @@ public class juego1 : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.M))
         {
-            SceneManager.LoadScene(1);
+            SceneManager.LoadScene(8);
         }
     }
 }
