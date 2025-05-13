@@ -1,0 +1,414 @@
+fileFormatVersion: 2
+guid: 92c93c092a702194d91997cd0689b80e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -37522526162588137
+    second: FRAMES ISTLI_0
+  - first:
+      213: 5064013508036361152
+    second: FRAMES ISTLI_1
+  - first:
+      213: 3711510994527588095
+    second: FRAMES ISTLI_2
+  - first:
+      213: -9215418174962005689
+    second: FRAMES ISTLI_3
+  - first:
+      213: 5169422357106322377
+    second: FRAMES ISTLI_4
+  - first:
+      213: -7277373275293447144
+    second: FRAMES ISTLI_5
+  - first:
+      213: -516580636950936305
+    second: FRAMES ISTLI_6
+  - first:
+      213: -8488284278264030272
+    second: FRAMES ISTLI_7
+  - first:
+      213: 7808984863372867557
+    second: FRAMES ISTLI_8
+  - first:
+      213: 4544413278698932183
+    second: FRAMES ISTLI_9
+  - first:
+      213: 2025624534281949641
+    second: FRAMES ISTLI_10
+  - first:
+      213: -5867630776309404663
+    second: FRAMES ISTLI_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FRAMES ISTLI_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 0
+        width: 19
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ee0051671ba7ff0800000000000000
+      internalID: -37522526162588137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FRAMES ISTLI_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 2
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb794c847df64640800000000000000
+      internalID: 5064013508036361152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FRAMES ISTLI_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe06c8c59fe18330800000000000000
+      internalID: 3711510994527588095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FRAMES ISTLI_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 18
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74906b8cef14c1080800000000000000
+      internalID: -9215418174962005689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FRAMES ISTLI_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 3
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cbe849be3a7db740800000000000000
+      internalID: 5169422357106322377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FRAMES ISTLI_5
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 2
+        width: 19
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c86343093910b90800000000000000
+      internalID: -7277373275293447144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FRAMES ISTLI_6
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05c1bcc5acb4d8f0800000000000000
+      internalID: -516580636950936305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FRAMES ISTLI_7
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 2
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb1a89fb6e833a80800000000000000
+      internalID: -8488284278264030272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FRAMES ISTLI_8
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 2
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7fdb50c561f5c60800000000000000
+      internalID: 7808984863372867557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FRAMES ISTLI_9
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d70b65bccff01f30800000000000000
+      internalID: 4544413278698932183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FRAMES ISTLI_10
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 2
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1113e18c67c1c10800000000000000
+      internalID: 2025624534281949641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FRAMES ISTLI_11
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90cade0a5ecf19ea0800000000000000
+      internalID: -5867630776309404663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      FRAMES ISTLI_0: -37522526162588137
+      FRAMES ISTLI_1: 5064013508036361152
+      FRAMES ISTLI_10: 2025624534281949641
+      FRAMES ISTLI_11: -5867630776309404663
+      FRAMES ISTLI_2: 3711510994527588095
+      FRAMES ISTLI_3: -9215418174962005689
+      FRAMES ISTLI_4: 5169422357106322377
+      FRAMES ISTLI_5: -7277373275293447144
+      FRAMES ISTLI_6: -516580636950936305
+      FRAMES ISTLI_7: -8488284278264030272
+      FRAMES ISTLI_8: 7808984863372867557
+      FRAMES ISTLI_9: 4544413278698932183
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
