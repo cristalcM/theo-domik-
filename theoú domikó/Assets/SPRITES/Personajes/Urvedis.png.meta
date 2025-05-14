@@ -193,7 +193,9 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Urvedis_0: 8488842559044174587
+      Urvedis_1: 6156371785340633668
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -169,7 +169,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      El campeon_0: -6583468562344290235
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

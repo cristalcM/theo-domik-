@@ -169,7 +169,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Houtli frente_0: -5656960872600745037
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

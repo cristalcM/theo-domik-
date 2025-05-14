@@ -169,7 +169,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      fondo_combate_0: -5668513038144752438
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
